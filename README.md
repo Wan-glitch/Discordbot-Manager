@@ -3,7 +3,7 @@ Habbo Chill Hub server bot
 
 Features:-
 1. Feedback
-2. Verification
+2. Auto-Verification
 3. Logger
 4. Invite Violations tracker
 5. Moderation commands
